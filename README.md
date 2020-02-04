@@ -1,12 +1,10 @@
-# VME Hashing Program
+# Hashing Tool
 
 ### Background
 
-TBC
+This tool can be used to generate a target file's hash value using the SHA-256 algorithm.
 
 ### Using the program
-
-TBC
 
 The code can be run directly from the terminal or it can be packaged into a .exe and run independently (which is how it is currently being used).
 
